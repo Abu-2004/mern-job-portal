@@ -150,18 +150,45 @@ Job-Portal
 
 # 📸 Screenshots
 
-> Add screenshots after deployment.
+## Home Page
 
-Example:
+![Home](assets/screenshots/home.png)
 
-- Home Page
-- Login
-- Register
-- Jobs
-- Job Details
-- Dashboard
-- Profile
-- Applicants
+---
+
+## Login
+
+![Login](assets/screenshots/login.png)
+
+---
+
+## Jobs
+
+![Jobs](assets/screenshots/jobs.png)
+
+---
+
+## Job Details
+
+![Job Details](assets/screenshots/job-details.png)
+
+---
+
+## Dashboard
+
+![Dashboard](assets/screenshots/dashboard.png)
+
+---
+
+## Profile
+
+![Profile](assets/screenshots/profile.png)
+
+---
+
+## Applicants
+
+![Applicants](assets/screenshots/applicants.png)
 
 ---
 
