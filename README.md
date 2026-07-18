@@ -170,7 +170,7 @@ Job-Portal
 
 ## Job Details
 
-![Job Details](assets/screenshots/details.png)
+![Job Details](assets/screenshots/job-details.png)
 
 ---
 
