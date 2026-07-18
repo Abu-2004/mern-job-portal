@@ -1,0 +1,37 @@
+.dashboard-header{
+
+    max-width:1200px;
+
+    margin:30px auto;
+
+    padding:0 20px;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+
+.dashboard-buttons{
+
+    display:flex;
+
+    gap:10px;
+
+    margin-top:20px;
+
+}
+
+.dashboard-buttons a{
+
+    flex:1;
+
+}
+
+.dashboard-buttons button{
+
+    width:100%;
+
+}

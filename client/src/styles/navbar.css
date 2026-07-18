@@ -1,0 +1,105 @@
+.navbar{
+
+    height:70px;
+
+    background:white;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:0 60px;
+
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
+
+    position:sticky;
+
+    top:0;
+
+    z-index:1000;
+
+}
+
+.logo{
+
+    text-decoration:none;
+
+    font-size:28px;
+
+    font-weight:bold;
+
+    color:#2563eb;
+
+}
+
+.nav-links{
+
+    display:flex;
+
+    gap:30px;
+
+}
+
+.nav-links a{
+
+    text-decoration:none;
+
+    color:#333;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+.nav-links a:hover{
+
+    color:#2563eb;
+
+}
+
+.nav-auth{
+
+    display:flex;
+
+    gap:20px;
+
+    align-items:center;
+
+}
+
+.nav-auth a{
+
+    text-decoration:none;
+
+    color:#333;
+
+    font-weight:600;
+
+}
+
+.nav-auth button{
+
+    background:#2563eb;
+
+    color:white;
+
+    border:none;
+
+    padding:10px 20px;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.nav-auth button:hover{
+
+    background:#1d4ed8;
+
+}
